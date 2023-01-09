@@ -2,101 +2,101 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-ABP NEWS | HINDI |
+ABP NEWS | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=cXmCgE34oKE
 
-AAJ TAK | HINDI |
+AAJ TAK | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=Nq2wYlWFucg
 
-ZEE NEWS | HINDI |
+ZEE NEWS | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=YZmd9pIQTDA
 
-NDTV HINDI | HINDI |
+NDTV HINDI | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=fDoYr7txXbg
 
-INDIA TV | HINDI |
+INDIA TV | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
 
-NEWS NATION | HINDI |
+NEWS NATION | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=Ww1uKwYbu0E
 
-NEWS 18 | HINDI |
+NEWS 18 | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=3bwY_K-30zI
 
-NEWS 24 | HINDI |
+NEWS 24 | YOITUBE HINDI |
 https://www.youtube.com/watch?v=_QcfwqJVtHM
 
-SADHNA NEWS | HINDI |
+SADHNA NEWS | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=B9V-rCJqpmY
 
-NAVBHARAT | HINDI |
+NAVBHARAT | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=zy-iyZuk4ZM
 
-TV9 BHARATVARSH | HINDI |
+TV9 BHARATVARSH | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=Z0UUT4SFnuE
 
-DD NEWS | HINDI |
+DD NEWS | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=0UtGWtPcOI4
 
-SANSAD TV | HINDI |
+SANSAD TV | YOUTUBE HINDI |
 https://www.youtube.com/watch?v=9qQSv9m6iUA
 
-ZEE BUISNESS | BUSINESS |
+ZEE BUISNESS | YOUTUBE BUSINESS |
 https://www.youtube.com/watch?v=9m40wz1VKkM
 
-CNBC AWAAZ | BUSINESS |
+CNBC AWAAZ | YOUTUBE BUSINESS |
 https://www.youtube.com/watch?v=5JlKub-ZEuQ
 
-NDTV PROFIT | BUSINESS |
+NDTV PROFIT | YOUTUBE BUSINESS |
 https://www.youtube.com/watch?v=GPKXF3mzAlU
 
-ET NOW | BUSINESS |
+ET NOW | YOUTUBE BUSINESS |
 https://www.youtube.com/watch?v=YF0KpQNGS_I
 
-ABP GANGA | UP NEWS |
+ABP GANGA | YOUTUBE UP |
 https://www.youtube.com/watch?v=JxSaJUNkVa8
 
-NEWS 18 UP/UK | UP NEWS |
+NEWS 18 UP/UK | YOUTUBE UP |
 https://www.youtube.com/watch?v=tZ52gIRF4GY
 
-ZEE UP/UK | UP NEWS |
+ZEE UP/UK | YOUTUBE UP |
 https://www.youtube.com/watch?v=2IKPItd1DKU
 
-BHARAR SAMACHAR | UP NEWS |
+BHARAR SAMACHAR | YOUTUBE UP |
 https://www.youtube.com/watch?v=mriFaBUo11I
 
-NDTV 24x7 | ENGLISH |
+NDTV 24x7 | YOUTUBE ENGLISH |
 https://www.youtube.com/watch?v=WB-y7_ymPJ4
 
-INDIA TODAY | ENGLISH |
+INDIA TODAY | YOUTUBE ENGLISH |
 https://www.youtube.com/watch?v=sYZtOFzM78M
 
-CNN NEWS18 | ENGLISH |
+CNN NEWS18 | YOUTUBE ENGLISH |
 https://www.youtube.com/watch?v=H8U3UwRvTBs
 
-MIRROR NOW | ENGLISH |
+MIRROR NOW | YOUTUBE ENGLISH |
 https://www.youtube.com/watch?v=Li4snVKW9Lw
 
-NEWS X | ENGLISH |
+NEWS X | YOUTUBE ENGLISH |
 https://www.youtube.com/watch?v=NU0Y-PSoFj4
 
-TIMES NOW | ENGLISH |
+TIMES NOW | YOUTUBE ENGLISH |
 https://www.youtube.com/watch?v=ruJNQvitgI4
 
-ABP ASMITA | GUJARATI |
+ABP ASMITA | YOUTUBE GUJARAT |
 https://www.youtube.com/watch?v=WFj92oHd3B4
 
-TV9 | GUJARATI |
+TV9 | YOUTUBE GUJARAT |
 https://www.youtube.com/watch?v=B5qL3mmxFho
 
-NEWS 18 | GUJARATI |
+NEWS 18 | YOUTUBE GUJARAT |
 https://www.youtube.com/watch?v=_SIk_57uIi4
 
-ZEE 24 | GUJARATI |
+ZEE 24 | YOUTUBE GUJRAT |
 https://www.youtube.com/watch?v=CO8D0zvoFaY
 
-Evergreen Romantic | MUSIC |
+Evergreen Romantic | YOUTUBE MUSIC |
 https://www.youtube.com/watch?v=CjpEwgVw7kc
 
-Hindi Romantic | MUSIC |
+Hindi Romantic | YOUTUBE MUSIC |
 https://www.youtube.com/watch?v=NGBg6Y0ABsM
