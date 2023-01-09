@@ -60,10 +60,10 @@ NEWS 18 UP/UK | UP | http://jiotv.catchup.cdn.jio.com/dare_images/images/News18_
 https://www.youtube.com/watch?v=tZ52gIRF4GY
 
 ZEE UP/UK | UP | http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21315-je85i72w-v1/imageContent-21315-je85i72w-m5.png | tatasky_637
-https://www.youtube.com/watch?v=2IKPItd1DKU
+https://www.youtube.com/watch?v=8v3rygP90r4
 
 BHARAT SAMACHAR | UP | http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11243-j9itj54w-v2/imageContent-11243-j9itj54w-m2.png | tatasky_291
-https://www.youtube.com/watch?v=mriFaBUo11I
+https://www.youtube.com/watch?v=0D3PGeMlX_g
 
 NDTV 24x7 | ENGLISH | http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png | tatasky_208
 https://www.youtube.com/watch?v=WB-y7_ymPJ4
@@ -71,26 +71,17 @@ https://www.youtube.com/watch?v=WB-y7_ymPJ4
 INDIA TODAY | ENGLISH | https://i.ytimg.com/vi/ZY3kax-QaTc/hqdefault_live.jpg |
 https://www.youtube.com/watch?v=sYZtOFzM78M
 
-CNN NEWS18 | ENGLISH | http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png | 492
-https://www.youtube.com/watch?v=H8U3UwRvTBs
-
 MIRROR NOW | ENGLISH | http://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Now.png | 491
 https://www.youtube.com/watch?v=Li4snVKW9Lw
 
 NEWS X | ENGLISH | http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png | 495
 https://www.youtube.com/watch?v=NU0Y-PSoFj4
 
-TIMES NOW | ENGLISH | http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11853-j9l1tvhs-v3/imageContent-11853-j9l1tvhs-m4.png | tatasky_547
-https://www.youtube.com/watch?v=ruJNQvitgI4
-
 ABP ASMITA | GUJARATI | http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-228-j5fxgzio-v2/imageContent-228-j5fxgzio-m2.png | tatasky_73
 https://www.youtube.com/watch?v=WFj92oHd3B4
 
 TV9 | GUJARATI | http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11874-j9l376yg-v2/imageContent-11874-j9l376yg-m2.png | tatasky_489
 https://www.youtube.com/watch?v=B5qL3mmxFho
-
-NEWS 18 | GUJARATI | http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png | 620
-https://www.youtube.com/watch?v=_SIk_57uIi4
 
 ZEE 24 | GUJARATI | http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png | 929
 https://www.youtube.com/watch?v=CO8D0zvoFaY
@@ -104,17 +95,17 @@ https://www.youtube.com/watch?v=04y0H01GTg0
 ZEE 24 TAAS | MARATHI | https://akamaividz.zee5.com/resources/0-9-zee24taas/list/386x386/1170x658withlog_1456945786.png | 0-9-zee24taas
 https://www.youtube.com/watch?v=80Q3UDSQLeA
 
-Evergreen Romantic | YOUTUBE MUSIC | |
+Evergreen Romantic | MUSIC | |
 https://www.youtube.com/watch?v=CjpEwgVw7kc
 
-Hindi Romantic | YOUTUBE MUSIC | |
+Hindi Romantic | MUSIC | |
 https://www.youtube.com/watch?v=NGBg6Y0ABsM
 
-Latest & Best of Bollywood Party Songs | MUSIC | |
-https://www.youtube.com/watch?v=R1WM_NG4IqI
+24/7 Bollywood Radio | MUSIC | |
+https://www.youtube.com/watch?v=c__Br1xUVK8
 
-Party Mashup 2022 | MUSIC | |
-https://www.youtube.com/watch?v=kIsXuDcv5FA
+Hindi Heart Touching Songs | MUSIC | |
+https://www.youtube.com/watch?v=HLRvXhkhpqo
 
 Cocomelon - Nursery Rhymes | KIDS | https://i.ytimg.com/vi/z2kA_GOLYI0/hqdefault_live.jpg |
 https://www.youtube.com/watch?v=WNOppbVkKu8
@@ -124,3 +115,15 @@ https://www.youtube.com/watch?v=JklSt2E4aX4
 
 Peppa Pig Hindi | KIDS | https://i.ytimg.com/vi/u1ELLHUvHp4/hqdefault_live.jpg |
 https://www.youtube.com/watch?v=clr7ABtlxcQ
+
+FLYING OVER PARADISE | 4K LIVE | |
+https://www.youtube.com/watch?v=rw7bxTqkYYs
+
+Animal Kingdom | 4K LIVE | |
+https://www.youtube.com/watch?v=OnnHDcdT-kk
+
+Nasa Live | 4K LIVE | |
+https://www.youtube.com/watch?v=86YLFOog4GM
+
+Earth 4K | 4K LIVE | |
+https://www.youtube.com/watch?v=_-WWwNt8AzU
