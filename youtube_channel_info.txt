@@ -2,14 +2,14 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-ABP NEWS | HINDI | http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png | 177
-https://www.youtube.com/watch?v=y-LhWP9L2pM
+Humpty Train | HINDI | http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png | 177
+https://www.youtube.com/live/igwJEVtQt9s
 
-AAJ TAK | HINDI | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png | 173
-https://www.youtube.com/watch?v=YCpui5la6zI
+Ek Mota Hathi | HINDI | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png | 173
+https://www.youtube.com/live/8MGKnflwPg0
 
-ZEE NEWS | HINDI | http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png | 504
-https://www.youtube.com/watch?v=8_LotXRkZSs
+Aloo Cachaloo | HINDI | http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png | 504
+https://www.youtube.com/live/FR2fJEHOjCU
 
 REPUBLIC BHAEAT | HINDI | |
 https://www.youtube.com/watch?v=dbnmXk_mb98
